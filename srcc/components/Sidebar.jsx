@@ -1,0 +1,1 @@
+const Sidebar = () => <aside><ul><li>Dashboard</li><li>Appointments</li></ul></aside>; export default Sidebar;

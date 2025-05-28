@@ -1,0 +1,1 @@
+const DashboardMainContent = () => <section><p>Dashboard Content</p></section>; export default DashboardMainContent;

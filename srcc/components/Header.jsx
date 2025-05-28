@@ -1,0 +1,1 @@
+const Header = () => <header><h1>Healthcare.</h1></header>; export default Header;
